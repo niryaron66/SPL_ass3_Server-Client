@@ -1,0 +1,25 @@
+# ninja log v5
+166	292	1641226020196360600	CMakeFiles/Client.dir/src/readMessage.cpp.o	cf82da6cec9cab1e
+141	263	1641226020165353100	CMakeFiles/Client.dir/src/writeMessage.cpp.o	ac888223f4d7653f
+2	341	1641236629909995900	build.ninja	9c507fd0d0c2cfa5
+77	5162	1641226025055423200	CMakeFiles/Client.dir/src/echoClient.cpp.o	acfc874154daef17
+114	5649	1641226025551550200	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5650	6141	1641226026044828600	Client.exe	b9d8caeeeb7b0fec
+12	454	1641236629909995900	build.ninja	bda5e961129cdaac
+84	5002	1641236635042481000	CMakeFiles/Client.dir/src/echoClient.cpp.o	acfc874154daef17
+110	5649	1641236635695731400	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5650	6168	1641236636219127500	Client.exe	b9d8caeeeb7b0fec
+74	5477	1641236993951060600	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5478	5994	1641236994469221300	Client.exe	b9d8caeeeb7b0fec
+82	5514	1641237068513781400	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5516	6050	1641237069038192500	Client.exe	b9d8caeeeb7b0fec
+71	5587	1641237154995793700	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5588	6102	1641237155512464000	Client.exe	b9d8caeeeb7b0fec
+75	5321	1641237187050843700	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5323	5841	1641237187571518700	Client.exe	b9d8caeeeb7b0fec
+73	5415	1641238620934964100	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5417	5939	1641238621458800800	Client.exe	b9d8caeeeb7b0fec
+79	5320	1641238704714575600	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5321	5831	1641238705225863900	Client.exe	b9d8caeeeb7b0fec
+79	5379	1641238804694183200	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	b54fc6d520551401
+5380	5883	1641238805199056400	Client.exe	b9d8caeeeb7b0fec

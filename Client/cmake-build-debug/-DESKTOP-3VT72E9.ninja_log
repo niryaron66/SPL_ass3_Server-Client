@@ -1,0 +1,5 @@
+# ninja log v5
+4927	5414	1640718728102339800	Client.exe	7b487f3332c291e1
+140	4926	1640718727613519100	CMakeFiles/Client.dir/src/connectionHandler.cpp.o	26aa6c6bf16b8b6a
+1	4336	1640718727008359500	CMakeFiles/Client.dir/src/echoClient.cpp.o	90b0626a332e68f0
+2	341	1640947477093885200	build.ninja	9c507fd0d0c2cfa5
