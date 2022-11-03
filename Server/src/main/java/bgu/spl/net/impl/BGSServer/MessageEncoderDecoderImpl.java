@@ -7,7 +7,6 @@ import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 
-//Should be T or not??????????
 public class MessageEncoderDecoderImpl implements MessageEncoderDecoder<Message> {
     private short opcode;
     private int len = 0;
